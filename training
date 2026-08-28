@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Emotional Regulation | Home</title>
+    <meta name="author" content="Sunyoung Irene Yoon">
+    <link rel="stylesheet" href="styles/emotion.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="safe.html">Safe</a>
+            <a href="abundant.html">Abundant</a>
+            <a href="capable.html">Capable</a>
+            <a href="training.html">Train</a>
+
+        </nav>
+    </header>
+    <main>
+        <div class="wrapper">
+            <section class="inner-wrapper">
+                <h1>My Emotional Regulation</h1>
+                <h2>Make responses automatic</h2>
+                <h3>Calm practice → mild stress → real-life stress → catch the old pattern → redirect → notice success
+                </h3>
+            </section>
+            <section class="inner-wrapper">
+                <h3>Stage 1 — Practice when I'm completely calm</h3>
+                <div>
+                    <img src="images/jesus-with-child.webp" alt="Jesus with a little child">
+                    <p>This is where you build the pathway.
+
+                        Once or twice a day, spend 2–3 minutes rehearsing.
+
+                        Close your eyes and imagine a mild version of the situation.
+                    </p>
+
+                    <h4>Counter blame response</h4>
+
+                    <p>Imagine someone saying:
+
+                        “This wasn't done correctly.”
+
+                        Notice the tiny defensive reaction.
+
+                        Then mentally practice:
+
+                        “Check before defending.”
+
+                        Relax your body.
+
+                        Imagine yourself saying:
+
+                        “Are you saying that I was responsible for it?”
+
+                        Now you've created an alternative sequence:
+
+                        ambiguous criticism → pause → clarification
+
+                        Do it several times.</p>
+
+                    <h4>Counter scarcity response</h4>
+
+                    <p>Imagine:
+
+                        “I'm short on money this month. Someone who has plenty isn't helping.”
+
+                        Let yourself feel a little of the disappointment.
+
+                        Then:
+
+                        “Scarcity response.”
+
+                        Pause.
+
+                        “Need, not comparison.”
+
+                        Then:
+
+                        “What do I actually need?”
+
+                        And imagine yourself taking one practical action.</p>
+
+                    <p>This is essentially mental rehearsal.
+
+                        You're not merely memorizing words. You're pairing the words with the actual emotional
+                        situation.</p>
+
+
+                </div>
+            </section>
+            <section class="inner-wrapper">
+                <h3> Stage 2 — Practice when I am mildly stressed</h3>
+                <img src="images/jesus-judgment.webp" alt="Jesus at Judgment Day">
+                <p>This is where many people make a mistake.
+
+                    They practice only while sitting peacefully meditating.
+
+                    Then real life happens and the practice disappears.
+
+                    Instead, deliberately practice during ordinary stress.</p>
+
+                <p>For example:
+
+                    You're doing schoolwork and you're getting frustrated.
+
+                    Stop for 10 seconds:
+
+                    “I'm stressed.”
+
+                    Then:
+
+                    “Check before defending.”
+
+                    or:
+
+                    “Need, not comparison.”
+
+                    Then continue.</p>
+                <p>You're teaching your brain:
+
+                    “This response is something I use while stressed.”
+
+                    That's important.</p>
+
+            </section>
+
+            <section class="inner-wrapper">
+                <h3>Stage 3 — Catch the OLD response after it has already started</h3>
+                <img src="images/jesus-judgment.webp" alt="Jesus at Judgment Day">
+
+                <p>Don't require yourself to catch it before it happens.</p>
+
+                <p>At first you probably won't.
+
+                    You might suddenly realize:
+
+                    “I've been resentfully thinking about this for 20 minutes.”
+
+                    That's not failure.
+
+                    That's actually the training opportunity.</p>
+
+                <p>Say: “There it is. Old pathway.”</p>
+                <p>Then: “What do I need right now?”</p>
+
+                <p>Then redirect.</p>
+
+                <p>You're teaching your brain:
+
+                    “Even when the old pathway activates, I can exit it.”
+
+                    That is extremely important.</p>
+
+                <p>You don't need perfect prevention.
+
+                    You need faster recovery.
+                </p>
+
+            </section>
+            <section class="inner-wrapper">
+                <h3>Stage 4 — Practice under genuine stress</h3>
+                <img src="images/jesus-judgment.webp" alt="Jesus at Judgment Day">
+                <p>Eventually, you want to use the skill when you're:</p>
+                <ul class="bullet-list">
+                    <li>
+                        sleep deprived</li>
+                    <li> hungry</li>
+                    <li>overloaded with assignments</li>
+                    <li>worried about money</li>
+                    <li>physically exhausted</li>
+                    <li>behind schedule</li>
+                    <li>emotionally disappointed</li>
+                </ul>
+                <p>But don't deliberately overwhelm yourself to practice it.
+
+                    Just use the moments that naturally occur.</p>
+
+                <p>For example:
+
+                    You're exhausted and have three assignments left.</p>
+
+                <p>Old brain:
+
+                    “I can't handle this. Everything is too much.”</p>
+
+                <p>New:
+
+                    “I'm overloaded. I don't need to solve my whole life. What's the next thing that I can do?”</p>
+
+                <p>Then:
+
+                    “Twenty minutes of this assignment. Just focus on that.”</p>
+
+                <p>That's not positive thinking.
+
+                    It's reducing an overwhelming prediction to an actionable present task.
+
+                </p>
+
+            </section>
+
+            <section class="inner-wrapper">
+                <h3>There's another extremely important piece: repetition immediately after the trigger</h3>
+
+                <p>If possible, practice the new response within seconds of the old response beginning.
+
+                    Why?
+
+                    Because you're trying to create a new association around the very situation that previously
+                    activated the old one.</p>
+
+                <p>The sequence becomes: old cue → old activation → new response</p>
+
+                <p>rather than always practicing: calm state → new response. Just
+                    focus on that. That's much more useful.</p>
+                <img src="images/esther.webp" alt="Queen Esther painting by Minerva Teichart">
+
+            </section>
+            <section class="inner-wrapper">
+                <h3>I also need to reward the new pathway</h3>
+
+                <p>After you successfully interrupt an old pattern, notice the success.</p>
+
+                <p>For example:
+
+                    “I was irritated because I thought she was blaming me, but I stopped and asked what she meant.”
+
+                    Then:
+
+                    “That's exactly what I want to become automatic.”</p>
+
+                <p>Or:
+
+                    “I noticed myself comparing my financial situation to theirs, and I redirected toward what I
+                    actually need.”</p>
+
+                <p>Pause for a moment and feel the difference.
+
+                    Don't immediately rush on.
+
+                    You're giving your brain a little bit of:
+
+                    “That was successful.”
+
+                    The brain learns not only from the event but from what follows it.</p>
+                <img src="images/esther.webp" alt="Queen Esther painting by Minerva Teichart">
+
+            </section>
+        </div>
+
+    </main>
+    <footer>
+        © Sunyoung Irene Yoon
+    </footer>
+</body>
+
+</html>
