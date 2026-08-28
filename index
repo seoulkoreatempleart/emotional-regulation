@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Emotional Regulation | Home</title>
+    <meta name="author" content="Sunyoung Irene Yoon">
+    <link rel="stylesheet" href="styles/emotion.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="safe.html">Safe</a>
+            <a href="abundant.html">Abundant</a>
+            <a href="capable.html">Capable</a>
+            <a href="training.html">Train</a>
+
+        </nav>
+    </header>
+    <main>
+        <div class="wrapper">
+            <section class="inner-wrapper">
+                <h1>My Emotional Regulation</h1>
+                <h2>Check before defending</h2>
+                <h2>Identify need, no comparing</h2>
+            </section>
+            <section class="inner-wrapper">
+                <h3>When I'm Under Stress</h3>
+                <div>
+                    <img src="images/jesus-with-child.webp" alt="Jesus with a little child">
+                    <p>This is stress, not necessarily truth.</p>
+
+                    <p>I don't have to solve everything right now.</p>
+                </div>
+            </section>
+            <section class="inner-wrapper">
+                <h3> What is happening?</h3>
+                <img src="images/jesus-judgment.webp" alt="Jesus at Judgment Day">
+                <ul>
+                    <li>Defense response → Check before defending.</li>
+                    <li>Scarcity response → Need, not comparison.</li>
+                    <li>Overload → Breathe, do only the next necessary thing.</li>
+                </ul>
+
+            </section>
+            <section class="inner-wrapper">
+                <h3>Notice → Regulate → Reinterpret → Choose</h3>
+
+                <img src="images/esther.webp" alt="Queen Esther painting by Minerva Teichart">
+
+            </section>
+        </div>
+
+    </main>
+    <footer>
+        © Sunyoung Irene Yoon
+    </footer>
+</body>
+
+</html>
