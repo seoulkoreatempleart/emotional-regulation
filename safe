@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Emotional Regulation | Home</title>
+    <meta name="author" content="Sunyoung Irene Yoon">
+    <link rel="stylesheet" href="styles/emotion.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="safe.html">Safe</a>
+            <a href="abundant.html">Abundant</a>
+            <a href="capable.html">Capable</a>
+            <a href="training.html">Train</a>
+
+        </nav>
+    </header>
+    <main>
+        <div class="wrapper">
+            <section class="inner-wrapper">
+                <h1>My Emotional Regulation</h1>
+                <h2>Check before defending</h2>
+
+            </section>
+            <section class="inner-wrapper">
+                <h3>🛡️ Defense Response</h3>
+                <div>
+                    <img src="images/jesus-with-child.webp" alt="Jesus with a little child">
+                    <h4>When I think I'm being blamed</h4>
+
+                    <p>Is this actually blame, or did my nervous system detect blame?
+
+                        What did the person literally say?
+
+                        I don't know that yet.
+
+                        Check before defending.</p>
+                </div>
+            </section>
+
+
+            </section>
+            <section class="inner-wrapper">
+                <h3>Notice → Regulate → Reinterpret → Choose</h3>
+                <img src="images/esther.webp" alt="Queen Esther painting by Minerva Teichart">
+
+            </section>
+        </div>
+
+    </main>
+    <footer>
+        © Sunyoung Irene Yoon
+    </footer>
+</body>
+
+</html>
