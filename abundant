@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Emotional Regulation | Home</title>
+    <meta name="author" content="Sunyoung Irene Yoon">
+    <link rel="stylesheet" href="styles/emotion.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="safe.html">Safe</a>
+            <a href="abundant.html">Abundant</a>
+            <a href="capable.html">Capable</a>
+            <a href="training.html">Train</a>
+
+        </nav>
+    </header>
+    <main>
+        <div class="wrapper">
+            <section class="inner-wrapper">
+                <h1>My Emotional Regulation</h1>
+                <h2>Identify need, no comparing</h2>
+            </section>
+            <section class="inner-wrapper">
+                <h3>💰 Scarcity Response</h3>
+                <div>
+                    <img src="images/jesus-judgment.webp" alt="Jesus at Judgment Day">
+                    <h4>When financial stress brings resentment or comparison</h4>
+
+                    <p>What am I actually longing for? What do I actually need?
+
+                        Security? Relief? Options? Support?
+
+                    <p>Forget about comparisons. Their financial ease doesn't determine my future. I don't have to want
+                        their life.</p>
+
+                    <p>What is the next door, not the final door?</p>
+                </div>
+            </section>
+
+            <section class="inner-wrapper">
+                <h3>Notice → Regulate → Reinterpret → Choose</h3>
+                <img src="images/esther.webp" alt="Queen Esther painting by Minerva Teichart">
+
+            </section>
+        </div>
+
+    </main>
+    <footer>
+        © Sunyoung Irene Yoon
+    </footer>
+</body>
+
+</html>
+
+</html>
